@@ -1,8 +1,9 @@
 #include<iostream>
+using namespace std; 
 
 int main(void)
 {
-	std::cout << "Did this work?" << std::endl; 
-	std::cout << "Did this work again?" << std::endl; 
+	cout << "What is your name?" << endl; 
+
 	return 0;
 }
